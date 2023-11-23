@@ -1,0 +1,8 @@
+train: /root/yolo_v5_mission/Part_A/train/images
+val: /root/yolo_v5_mission/Part_A/val/images
+
+# 类别数目
+nc: 1
+
+# 类别名
+names: ['person']
